@@ -92,6 +92,16 @@ Zod (https://zod.dev/)
 npm install zod
 ```
 
+# AI
+
+# React Router
+https://reactrouter.com/
+
+Install
+```
+npm install react-router
+```
+
 # DEPLOY
 Edita tu vite.config.ts
 ```

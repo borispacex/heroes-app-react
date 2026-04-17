@@ -15,5 +15,5 @@ export default defineConfig({
             "@": path.resolve(__dirname, './src'),
         }
     },
-  base: '/heroes-app-react/'
+    base: '/heroes-app-react/'
 })
